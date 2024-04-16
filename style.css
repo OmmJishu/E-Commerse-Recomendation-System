@@ -1,0 +1,236 @@
+/* Base styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  body {
+    background-color: #f5f5f5;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0;
+  }
+  
+  nav {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  nav a:hover {
+    color: #000;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+  }
+  
+  .hero h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+  
+  .hero form {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .hero input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 200px;
+  }
+  
+  .hero button {
+    padding: 10px 
+  }
+
+  /* Background image for hero section */
+.hero {
+  background-image: url("path/to/your/image.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 50px 20px;
+}
+
+/* CTA button */
+.hero button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Product card styling (assuming dynamic population using JS) */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+/* Hover effect on product cards */
+.product-card:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Testimonial carousel styling (assuming basic structure) */
+.testimonial-carousel {
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  white-space: nowrap; /* Remove horizontal scrollbar */
+}
+
+.testimonial {
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  scroll-snap-align: start; /* Align testimonials on scrolling */
+}
+
+
+/* Background image for hero section */
+.hero {
+    background-image: url("path/to/your/image.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 50px 20px;
+  }
+  
+  /* CTA button */
+  .hero button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Product card styling (assuming dynamic population using JS) */
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .product-card {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Hover effect on product cards */
+  .product-card:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Testimonial carousel styling (assuming basic structure) */
+  .testimonial-carousel {
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    white-space: nowrap; /* Remove horizontal scrollbar */
+  }
+  
+  .testimonial {
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    scroll-snap-align: start; /* Align testimonials on scrolling */
+  }  
+
+  /* About Us and Contact Us sections */
+.about-section,
+.contact-section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-section h2,
+.contact-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.about-section p,
+.contact-section p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.contact-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-section li {
+    margin-bottom: 8px;
+    font-size: 1rem;
+    color: #333;
+}
+
+.contact-section a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contact-section a:hover {
+    text-decoration: underline;
+}

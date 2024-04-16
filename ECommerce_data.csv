@@ -1,0 +1,603 @@
+Product_name,amazon,flipkart,Ajio,snapdeal
+"Apple iPhone 15 Pro Max",1599,1589,1579,1800
+"Samsung Galaxy S24 Ultra",1399,1379,1388,1450
+"Xiaomi Mi 13",799,789,779,820
+"Google Pixel 8",899,879,868,950
+"OnePlus 12 Pro",999,989,995,1050
+"Motorola Edge 40 Pro",799,789,795,850
+"OnePlus Nord N300",299,289,295,320
+"Sony Xperia 1 V",1399,1389,1395,1450
+"LG Velvet 5G",399,489,495,525
+"Nokia 8.3 5G",699,689,695,425
+"Motorola Edge 40",599,589,595,625
+"Google Pixel 7",599,589,595,625
+"Vivo X80 Pro",899,889,895,950
+"Huawei P50 Pro",1199,1189,1195,1250
+"Oppo Find X5 Pro",1099,1089,1095,1150
+"Realme GT2 Pro",749,739,745,800
+"Asus Zenfone 9",699,689,695,750
+"Google Pixel Fold",1799,1789,1795,1850
+"Apple iPhone SE (3rd Gen)",429,419,425,450
+"Samsung Galaxy Z Fold 5",1899,1889,1895,1950
+"Xiaomi Poco X5 Pro",349,339,345,380
+"OnePlus Nord 2T",399,389,395,420
+"Motorola Razr 40",999,989,995,1050
+"Oppo Reno 9 Pro",699,689,695,750
+"Vivo V27 Pro",499,489,495,525
+"Sony Xperia 10 IV",399,389,395,420
+"Nokia G50",299,289,295,320
+"Honor Magic5 Pro",999,989,995,1050
+"Realme GT Neo 3",499,489,475,525
+"Xiaomi 13 Lite",499,489,495,525
+"OnePlus 10 Pro",799,789,795,850
+"Samsung Galaxy M54",499,489,495,525
+"Vivo Y35",249,239,245,270
+"Realme Narzo 50",149,139,145,160
+"Honor 50",399,389,395,420
+"OnePlus 11",749,739,745,800
+"HP Pavilion 15",649,629,639,700
+"Lenovo IdeaPad 3",499,479,489,550
+"Dell Inspiron 15",599,579,589,650
+"Asus ROG Strix G15",1299,1289,1279,1350
+"Apple MacBook Air M2",999,979,985,1050
+"Acer Aspire 5",449,439,445,500
+"MSI GF63 Thin",799,789,795,850
+"HP Spectre x360",1099,1079,1089,1150
+"Lenovo ThinkPad X1 Carbon",1399,1379,1389,1450
+"Dell XPS 13",1299,1279,1289,1350
+"Asus ZenBook 14",899,879,889,950
+"Apple MacBook Pro 16",2399,2379,2389,2450
+"Acer Predator Helios 300",1499,1479,1489,1550
+"MSI GE76 Raider",2399,2379,2389,2450
+"Razer Blade 15",1999,1979,1989,2050
+"Samsung Galaxy Book2 Pro",1299,1279,1289,1350
+"Microsoft Surface Laptop 4",1099,1079,1089,1150
+"HP Envy x360",899,879,889,950
+"Lenovo Yoga 9i",1299,1279,1289,1350
+"Dell G15 Gaming",1199,1179,1189,1250
+"Asus VivoBook S15",749,729,739,800
+"Apple MacBook Pro M1",1299,1279,1289,1350
+"Acer Swift 3",699,679,689,750
+"MSI Modern 15",649,629,639,700
+"Razer Blade Stealth 13",1599,1579,1589,1650
+"HP Omen 15",1499,1479,1489,1550
+"Lenovo Legion 5 Pro",1199,1179,1189,1250
+"Dell Latitude 14",999,979,985,1050
+"Asus TUF Gaming A15",999,979,985,1050
+"Apple MacBook Pro 13",1299,1279,1289,1350
+"Acer ConceptD 7",2699,2679,2689,2750
+"MSI Creator Z16",2699,2679,2689,2750
+"Razer Blade Pro 17",2599,2579,2589,2650
+"Samsung Galaxy Book Ion",1299,1279,1289,1350
+"Microsoft Surface Pro 7",999,979,985,1050
+"HP Chromebook x360",449,439,445,500
+"Lenovo ThinkPad E14",699,679,689,750
+"Dell Latitude 3520",999,979,985,1050
+"Asus Chromebook Flip",399,379,389,420
+"Nike Air Max 270 (Men's)",149,139,145,160
+"Adidas Superstar (Women's)",99,89,95,110
+"Levi's 501 Original Fit Jeans (Men's)",69,59,65,75
+"Tommy Hilfiger Cotton Shirt (Men's)",49,45,47,52
+"U.S. Polo Assn. Cotton Shirt (Women's)",39,35,37,42
+"Ralph Lauren Polo Shirt (Men's)",59,49,55,65
+"Gap Classic Hoodie (Women's)",69,59,65,75
+"Adidas Running Shorts (Men's)",39,29,35,42
+"Calvin Klein Underwear (Women's)",49,39,45,55
+"Apple Watch Series 8",429,419,425,450
+"Sony PlayStation 5",499,489,550,510
+"Samsung Galaxy Buds Pro",179,169,175,190
+"JBL Flip 6 Portable Bluetooth Speaker",129,119,125,140
+"Amazon Echo Dot (4th Gen)",49,45,47,55
+"GoPro HERO11 Black",499,489,495,550
+"Black+Decker Blender",129,119,125,140
+"Tefal Nonstick Frypan",49,39,45,55
+"KitchenAid Stand Mixer",399,379,450,369
+"Dyson V15 Detect Cordless Vacuum",599,579,589,650
+"Instant Pot Duo 7-in-1",99,89,95,110
+"Bodum French Press Coffee Maker",29,25,27,32
+"LOreal Paris Revitalift Serum",39,35,37,42
+"Maybelline New York Fit Me Foundation",19,17,18,22
+"Philips Sonicare Electric Toothbrush",99,89,95,110
+"Garnier Micellar Cleansing Water",9,7,8,12
+"Neutrogena Hydro Boost Water Gel",19,17,18,22
+"Gillette Fusion5 Razor",15,12,13,17
+"Travel Backpack",49,39,45,55
+"Wireless Headphones",79,69,75,85
+"Board Game",39,35,37,42
+"Nike Sports Bag",59,49,55,65
+"Camping Lantern",29,19,25,35
+"Stainless Steel Water Bottle",19,15,17,22
+"Whole Wheat Bread",1,1,1,1
+"Skim Milk",1,1,1,2
+"Organic Eggs (12 pack)",4,4,4,4
+"Brown Rice (2lb)",3,3,3,3
+"Oatmeal (18oz)",3,3,3,4
+"Dish Soap",3,3,3,3
+"All-Purpose Cleaner",3,3,3,4
+"Laundry Detergent (100oz)",12,12,12,12
+"Disinfectant Wipes (35 count)",3,3,3,3
+"Bleach (64oz)",2,2,2,3
+Shampoo,5,5,5,5
+Conditioner,5,5,5,5
+Toothpaste,3,3,3,3
+"Mouthwash (16oz)",5,5,5,5
+"Deodorant Stick",4,4,4,4
+"Wireless Mouse",25,24,25,26
+"Bluetooth Headset",60,59,60,62
+"USB-C Charging Cable",15,14,15,15
+"Power Strip (6 outlet)",20,19,20,21
+"4K HDMI Cable",10,9,10,10
+"Organic Apple (3 lb bag)",4,4,4,4
+"Almond Milk (32oz)",3,3,3,3
+"Natural Peanut Butter",4,4,4,4
+"Potato Chips (12 oz bag)",3,3,3,4
+"Coffee Beans (16 oz)",9,9,9,9
+"Microwave Popcorn (3 pack)",3,3,3,3
+"Yogurt (32oz)",4,4,4,4
+"Granola Bars (12 pack)",5,5,5,5
+"Frozen Pizza",6,6,6,6
+"Frozen Vegetables (16oz)",2,2,2,2
+"Apple iPhone 16 Pro Max",1699,1689,1679,1850
+"Apple iPhone 16",1299,1289,1279,1400
+"Apple iPhone SE (4th Gen)",449,439,445,475
+"Samsung Galaxy S25 Ultra",1499,1479,1488,1550
+"Samsung Galaxy S25",1099,1079,1088,1150
+"Samsung Galaxy Z Fold 6",1999,1989,1995,2050
+"Xiaomi Mi 14",899,889,888,950
+"Xiaomi Mi 14 Pro",999,989,995,1050
+"Xiaomi Poco X6 Pro",399,389,395,420
+"HP Pavilion 16",749,729,739,800
+"HP Envy 15",999,979,985,1050
+"HP Spectre x360 14",1099,1079,1089,1150
+"Dell Inspiron 16",649,629,639,700
+"Dell XPS 14",1499,1479,1489,1550
+"Dell Alienware m17",2199,2179,2189,2250
+"Xiaomi RedmiBook Pro 15",699,679,689,750
+"Xiaomi RedmiBook Air 13",599,579,589,650
+"Xiaomi Mi Notebook 15",799,779,789,850
+"Lenovo ThinkPad T15",1099,1079,1089,1150
+"Lenovo Legion 7",1499,1479,1489,1550
+"Lenovo Yoga Slim 9",1799,1779,1789,1850
+"Boat Airdopes 441",39,35,37,42
+"Boat Rockerz 450",49,45,47,52
+"Boat Rockerz 330",29,25,27,32
+"JBL Tune 230NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"Mivi Duopods A25",29,25,27,32
+"Mivi Collar Flash",49,45,47,52
+"Mivi ThunderBeats",39,35,37,42
+"Boult Audio AirBass",49,45,47,52
+"Boult Audio ProBuds",59,55,57,62
+"Boult Audio BassBuds Storm",29,25,27,32
+"Apple iPhone 15",1299,1289,1279,1350
+"Apple iPhone 15 Pro",1499,1489,1479,1550
+"Apple iPhone 15 Plus",1399,1389,1379,1450
+"Apple iPhone 15 SE",999,989,995,1050
+"Apple iPhone 15 Mini",1199,1189,1195,1250
+"Apple iPhone 16 Mini",1299,1289,1279,1350
+"Apple iPhone 16 Plus",1399,1389,1379,1450
+"Apple iPhone 16 SE",1199,1189,1195,1250
+"Apple iPhone 16 Mini",1299,1289,1279,1350
+"Apple iPhone SE (4th Gen)",529,519,525,550
+"Apple iPhone 15",1299,1289,1279,1350
+"Apple iPhone 15 Pro Max",1599,1589,1579,1800
+"Apple iPhone 15 Pro",1499,1489,1479,1550
+"Apple iPhone 15 Plus",1399,1389,1379,1450
+"Apple iPhone 15 SE",999,989,995,1050
+"Apple iPhone 16",1299,1289,1279,1400
+"Apple iPhone 16 Pro",1499,1489,1479,1550
+"Apple iPhone 16 Pro Max",1699,1689,1679,1850
+"Apple iPhone SE (3rd Gen)",429,419,425,450
+"Apple iPhone SE (4th Gen)",449,439,445,475
+"Samsung Galaxy S25 Ultra",1499,1479,1488,1550
+"Samsung Galaxy S25",1099,1079,1088,1150
+"Samsung Galaxy Z Fold 6",1999,1989,1995,2050
+"Samsung Galaxy Z Flip 6",1399,1379,1389,1450
+"Samsung Galaxy A55",699,689,695,750
+"Samsung Galaxy A75",899,889,895,950
+"Samsung Galaxy M35",499,489,495,525
+"Samsung Galaxy Note 22",1299,1279,1289,1350
+"Samsung Galaxy S25 FE",999,989,995,1050
+"Samsung Galaxy A35",399,389,395,420
+"Samsung Galaxy A75",899,889,895,950
+"Samsung Galaxy Z Fold 5",1899,1889,1895,1950
+"Samsung Galaxy S23 FE",699,689,695,750
+"Samsung Galaxy M54",499,489,495,525
+"Samsung Galaxy A45",499,489,495,525
+"Samsung Galaxy S24",1299,1279,1289,1350
+"Samsung Galaxy Note 23",1299,1279,1289,1350
+"Samsung Galaxy M85",1099,1079,1089,1150
+"Samsung Galaxy A35",399,389,395,420
+"Samsung Galaxy A75",899,889,895,950
+"HP Envy 17",999,979,985,1050
+"HP Spectre x360 15",1199,1179,1189,1250
+"HP Pavilion Gaming 16",899,879,885,950
+"HP Envy x360 13",799,779,785,850
+"HP Omen 17",1499,1479,1489,1550
+"HP Chromebook 14",299,289,295,320
+"HP Envy x360 15",999,979,985,1050
+"HP Spectre x360 13",1299,1279,1289,1350
+"HP Pavilion 15",749,729,739,800
+"HP Omen 16",1599,1579,1589,1650
+"HP Spectre x360 14",1199,1179,1189,1250
+"HP Omen 17",1499,1479,1489,1550
+"HP Envy 14",899,879,885,950
+"HP EliteBook 840",1099,1079,1089,1150
+"HP Pavilion 16",899,879,885,950
+"HP Spectre x360 14",1199,1179,1189,1250
+"HP Envy 15",999,979,985,1050
+"HP Pavilion x360 14",999,979,985,1050
+"HP Envy 15",999,979,985,1050
+"HP Envy 13",999,979,985,1050
+"Dell XPS 15",1499,1479,1489,1550
+"Dell XPS 17",1999,1979,1989,2050
+"Dell G7 15",999,979,985,1050
+"Dell Inspiron 14",749,729,739,800
+"Dell Inspiron 17",899,879,889,950
+"Dell G3 15",599,579,589,650
+"Dell G5 15",899,879,889,950
+"Dell XPS 13",1299,1279,1289,1350
+"Dell G5 17",1099,1079,1089,1150
+"Dell G7 17",1299,1279,1289,1350
+"Dell XPS 13",1299,1279,1289,1350
+"Dell XPS 15",1499,1479,1489,1550
+"Dell XPS 17",1999,1979,1989,2050
+"Dell XPS 13",1299,1279,1289,1350
+"Dell Inspiron 14",749,729,739,800
+"Dell G5 15",899,879,889,950
+"Dell XPS 15",1499,1479,1489,1550
+"Dell G7 17",1299,1279,1289,1350
+"Dell Alienware m15",2499,2479,2489,2550
+"Dell Inspiron 15",649,629,639,700
+"Lenovo Yoga Slim 7",899,879,889,950
+"Lenovo Yoga 9i",1299,1279,1289,1350
+"Lenovo Yoga Slim 7i",999,979,985,1050
+"Lenovo Legion 5i Pro",1499,1479,1489,1550
+"Lenovo Legion 5i",1099,1079,1089,1150
+"Lenovo Yoga Slim 7i",999,979,985,1050
+"Lenovo Yoga 7i",1299,1279,1289,1350
+"Lenovo Yoga 9i",1299,1279,1289,1350
+"Lenovo ThinkPad X1 Nano",1499,1479,1489,1550
+"Lenovo Legion 5i Pro",1499,1479,1489,1550
+"Lenovo Yoga Slim 7i",999,979,985,1050
+"Lenovo Legion 5 Pro",1499,1479,1489,1550
+"Lenovo ThinkPad X1 Carbon",1599,1579,1589,1650
+"Lenovo Yoga Slim 7i",999,979,985,1050
+"Lenovo Yoga 7i",1299,1279,1289,1350
+"Lenovo ThinkPad X1 Carbon",1599,1579,1589,1650
+"Lenovo ThinkPad X1 Carbon",1599,1579,1589,1650
+"Lenovo ThinkPad X1 Carbon",1599,1579,1589,1650
+"Lenovo ThinkPad X1 Carbon",1599,1579,1589,1650
+"Lenovo ThinkPad X1 Carbon",1599,1579,1589,1650
+"Mivi Duopods A26",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi ThunderBeats 2.0",39,35,37,42
+"Mivi Duopods A27",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi Duopods A28",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi ThunderBeats 2.0",39,35,37,42
+"Mivi Duopods A29",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi ThunderBeats 2.0",39,35,37,42
+"Mivi Duopods A29",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi ThunderBeats 2.0",39,35,37,42
+"Mivi Duopods A30",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi ThunderBeats 2.0",39,35,37,42
+"Mivi Duopods A31",29,25,27,32
+"Mivi Collar Flash 2.0",49,45,47,52
+"Mivi ThunderBeats 2.0",39,35,37,42
+"Boat Airdopes 411",39,35,37,42
+"Boat Rockerz 451",49,45,47,52
+"Boat Rockerz 331",29,25,27,32
+"Boat Airdopes 421",49,45,47,52
+"Boat Rockerz 451",49,45,47,52
+"Boat Rockerz 331",29,25,27,32
+"Boat Rockerz 331",29,25,27,32
+"Boat Rockerz 451",49,45,47,52
+"Boat Rockerz 451",49,45,47,52
+"Boat Rockerz 331",29,25,27,32
+"Boat Rockerz 451",49,45,47,52
+"Boat Rockerz 331",29,25,27,32
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"JBL C100SI In-Ear",19,15,17,22
+"JBL Tune 231NC TWS",59,55,57,62
+"JBL Endurance Run BT",49,45,47,52
+"Banana (6 pack)",1,1,1,1
+"Avocado (2 pack)",3,3,3,3
+"Tomatoes (1lb)",2,2,2,2
+"Carrots (1lb)",1,1,1,1
+"Broccoli (1lb)",1,1,1,1
+"Mango (3 pack)",4,4,4,4
+"Cucumber (1 pack)",1,1,1,1
+"Orange (3 pack)",2,2,2,2
+"Grapes (1lb)",3,3,3,3
+"Strawberries (1lb)",4,4,4,4
+"Blueberries (1lb)",4,4,4,4
+"Raspberries (1lb)",4,4,4,4
+"Lemon (2 pack)",1,1,1,1
+"Lime (2 pack)",1,1,1,1
+"Zucchini (1 pack)",1,1,1,1
+"Peppers (1 pack)",2,2,2,2
+"Potato (3 pack)",2,2,2,2
+"Sweet Potato (2 pack)",3,3,3,3
+"Corn (2 pack)",1,1,1,1
+"Onion (1lb)",1,1,1,1
+"Google Pixel 7",799,789,795,850
+"Google Pixel 7 Pro",999,989,995,1050
+"OnePlus 13 Pro",899,889,895,950
+"OnePlus 13",749,739,745,800
+"Nokia G21",199,189,195,225
+"Sony Xperia 5 IV",999,979,985,1050
+"Sony Xperia 1 IV",1199,1179,1185,1250
+"Oppo Find X6",799,789,795,850
+"Vivo X90 Pro",999,989,995,1050
+"Vivo V25",399,389,395,450
+"Realme GT2",599,589,595,650
+"Motorola Edge 30 Pro",799,789,795,850
+"Asus ZenFone 9",699,689,695,750
+"Sony WH-1000XM5",349,339,345,400
+"Bose QuietComfort Earbuds II",299,289,295,350
+"Jabra Elite 85t",249,239,245,300
+"Sennheiser Momentum True Wireless 3",299,289,295,350
+"Apple AirPods Pro 2",249,239,245,300
+"Beats Studio Buds",149,139,145,175
+"Sony WF-1000XM4",199,189,195,225
+"LG Gram 16",1599,1579,1589,1650
+"Asus ROG Zephyrus G14",1799,1779,1789,1850
+"Acer Predator Triton 500",1999,1979,1989,2050
+"Dell XPS 13",1099,1079,1089,1150
+"HP Spectre x360 15",1599,1579,1589,1650
+"Apple MacBook Air M2",1299,1279,1289,1350
+"Apple MacBook Pro 14",1999,1979,1989,2050
+"Razer Blade 15",2499,2479,2489,2550
+"Lenovo ThinkBook 14",899,889,895,950
+"MSI GS66 Stealth",1499,1479,1489,1550
+"Asus VivoBook 15",699,689,695,750
+"Microsoft Surface Laptop 5",1299,1279,1289,1350
+"Microsoft Surface Pro 9",1399,1379,1389,1450
+"Samsung Galaxy Book2 Pro 360",1499,1479,1489,1550
+"Asus ZenBook Pro 14 Duo OLED",2499,2479,2489,2550
+"Huawei MateBook X Pro",1899,1879,1889,1950
+"Huawei MateBook D 15",749,739,745,800
+"Huawei MateBook D 14",699,689,695,750
+"Huawei MateBook E",899,889,895,950
+"Xiaomi Redmi Note 13 Pro Max",349,339,345,375
+"Xiaomi Redmi Note 13 Pro",299,289,295,325
+"Poco M5",199,189,195,225
+"Realme Narzo 50 Pro",249,239,245,275
+"Vivo Y35",199,189,195,225
+"Oppo A97",199,189,195,225
+"Motorola Moto G82",299,289,295,325
+"Google Pixel 6a",449,439,445,475
+"Sony Xperia 10 IV",399,389,395,425
+"Xiaomi Redmi Note 12 Pro+",449,439,445,475
+"Asus ZenFone 8 Flip",699,689,695,725
+"Asus ZenFone 8",599,589,595,625
+"Sony 65-inch 4K Smart TV",999,989,995,1050
+"Samsung 55-inch QLED TV",1499,1479,1489,1550
+"LG 75-inch NanoCell TV",1999,1979,1989,2050
+"Toshiba 50-inch Fire TV",399,389,395,420
+"Philips 32-inch HD LED TV",199,189,195,225
+"Sony PlayStation 5",499,489,550,510
+"Nintendo Switch",299,289,295,320
+"Xbox Series X",499,489,495,525
+"Logitech G Pro Wireless Mouse",149,139,145,160
+"Razer DeathAdder V2 Gaming Mouse",69,59,65,75
+"Corsair K95 RGB Platinum Mechanical Keyboard",199,189,195,225
+"SteelSeries Arctis 7 Gaming Headset",149,139,145,160
+"HyperX Cloud II Gaming Headset",99,89,95,110
+"Elgato Stream Deck",149,139,145,160
+"Blue Yeti USB Microphone",129,119,125,140
+"Anker PowerCore 20000 Portable Charger",49,45,47,52
+"RAVPower 26800mAh Power Bank",39,35,37,42
+"Apple AirTag",29,25,27,32
+"Tile Pro Bluetooth Tracker",34,30,32,37
+"Fitbit Charge 5 Fitness Tracker",149,139,145,160
+"Garmin Forerunner 245 GPS Running Watch",299,289,295,320
+"GoPro HERO10 Black",499,489,495,525
+"DJI Mini 2 Drone",449,439,445,475
+"Canon EOS Rebel T8i DSLR Camera",699,689,695,750
+"Nikon D3500 DSLR Camera",499,489,495,525
+"Sony Alpha A6400 Mirrorless Camera",899,879,885,950
+"Bose QuietComfort 45 Wireless Headphones",329,319,325,350
+"Sony WH-1000XM4 Noise Cancelling Headphones",349,339,345,370
+"JBL Flip 6 Portable Bluetooth Speaker",129,119,125,140
+"Ultimate Ears BOOM 3 Waterproof Speaker",149,139,145,160
+"Amazon Echo (4th Gen)",99,89,95,110
+"Google Nest Audio Smart Speaker",99,89,95,110
+"Apple HomePod Mini",99,89,95,110
+"Eufy RoboVac 11S Robot Vacuum Cleaner",219,209,215,240
+"iRobot Roomba 675 Robot Vacuum",249,239,245,270
+"Shark IQ Robot Self-Empty XL Vacuum",449,439,445,475
+"Instant Pot Duo 6 Quart Pressure Cooker",99,89,95,110
+"Cuisinart Stainless Steel 12-Cup Coffee Maker",79,69,75,85
+"Hamilton Beach Food Processor",49,45,47,52
+"KitchenAid Classic Stand Mixer",199,189,195,225
+"Instant Pot Air Fryer Lid",79,69,75,85
+"Ninja Professional Blender",89,79,85,95
+"Dyson V8 Animal Cordless Vacuum Cleaner",399,389,395,420
+"Bissell CleanView Swivel Pet Vacuum Cleaner",99,89,95,110
+"Samsung SmartThings Smart Home Hub",69,59,65,75
+"Ring Video Doorbell 3",199,189,195,225
+"Google Nest Learning Thermostat",249,239,245,270
+"Dyson V11 Vacuum Cleaner",599,579,585,630
+"Philips Airfryer XXL",199,189,195,215
+"Instant Pot Duo",119,109,115,130
+"Ninja Foodi 6-in-1 Grill",229,219,225,240
+"Breville Barista Express",599,579,585,620
+"iRobot Roomba i7+",699,679,685,715
+"Samsung Galaxy Tab S8",899,879,885,950
+"Apple iPad Air (2022)",599,579,585,620
+"JBL Flip 6 Bluetooth Speaker",129,119,125,140
+"Bose SoundLink Revolve+",299,279,285,315
+"GoPro HERO12 Black",399,379,385,425
+"Sony WH-1000XM4 Headphones",349,329,335,370
+"Samsung Galaxy Watch 4",249,229,235,260
+"Apple Watch Series 7",399,379,385,425
+"Fitbit Charge 5",179,169,175,190
+"Garmin Forerunner 945",499,479,485,520
+"Sony Alpha 7 IV Mirrorless Camera",2799,2779,2785,2850
+"Canon EOS R5 Mirrorless Camera",3899,3879,3885,3950
+"Nikon Z7 II Mirrorless Camera",2999,2979,2985,3050
+"Dell UltraSharp 27" Monitor",449,429,435,470
+"LG 27" UltraFine 5K Monitor",1299,1279,1285,1350
+"Samsung 55" QLED TV",999,979,985,1050
+"LG 55" OLED TV",1399,1379,1385,1450
+"Sony Bravia 55" OLED TV",1499,1479,1485,1550
+"Roku Ultra Streaming Player",99,89,95,115
+"NVIDIA GeForce RTX 3080 Graphics Card",1199,1179,1185,1250
+"Logitech MX Master 3 Mouse",99,89,95,115
+"Corsair K95 RGB Platinum Keyboard",179,169,175,195
+"SteelSeries Arctis 7P+ Wireless Headset",149,139,145,160
+"Western Digital 2TB NVMe SSD",229,219,225,245
+"SanDisk 1TB Extreme Portable SSD",179,169,175,195
+"Seagate Expansion 8TB External Hard Drive",169,159,165,180
+"LG 34" UltraWide Curved Monitor",999,979,985,1050
+"Acer Predator X34 Monitor",899,879,885,950
+"Nintendo Switch OLED Model",349,329,335,370
+"Sony PlayStation 5",499,479,485,520
+"Microsoft Xbox Series X",499,479,485,520
+"Apple Mac Mini M1",699,679,685,715
+"Synology DS220+ NAS",299,279,285,315
+"Jabra Speak 510 Wireless Speakerphone",149,139,145,160
+"Blue Yeti USB Microphone",129,119,125,140
+"Brother HL-L2395DW Laser Printer",249,229,235,260
+"Canon PIXMA TR8620 All-in-One Printer",149,139,145,160
+"Sony PlayStation VR2",399,379,385,420
+"Oculus Quest 2 VR Headset",299,279,285,315
+"Pioneer DJ DDJ-400 Controller",399,379,385,420
+"Yamaha P-125 Digital Piano",699,679,685,715
+"Casio PX-870 Digital Piano",999,979,985,1050
+"NordicTrack Commercial 1750 Treadmill",1499,1479,1485,1550
+"Bowflex SelectTech 552 Dumbbells",299,279,285,315
+"Sony WH-1000XM4 Headphones",349,329,335,360
+"Bose QuietComfort 35 II",299,279,285,315
+"Apple AirPods Pro",249,239,245,265
+"Jabra Elite 85t True Wireless Earbuds",179,169,175,190
+"Samsung Galaxy Buds Live",149,139,145,160
+"Anker Soundcore Liberty 3 Pro",129,119,125,135
+"Sony Bravia X90J 55" 4K TV",999,979,985,1025
+"Samsung QLED 4K Smart TV",899,879,885,920
+"LG OLED 48" Smart TV",1299,1279,1285,1325
+"Vizio P-Series Quantum 65" Smart TV",1199,1179,1185,1220
+"TCL 6-Series 55" 4K Roku TV",649,629,635,660
+"Hisense H9G Quantum Series 65" TV",749,729,735,765
+"Cuisinart AirFryer Toaster Oven",199,189,195,210
+"Ninja Foodi 9-in-1 Pressure Cooker",199,189,195,210
+"Instant Pot Duo Plus 9-in-1",99,89,95,105
+"Kitchenaid Artisan Mini Mixer",299,279,285,310
+"Vitamix E310 Explorian Blender",349,329,335,360
+"Cuisinart Grind Central Coffee Grinder",29,25,28,32
+"Breville BES870XL Barista Express",699,679,685,715
+"Philips Hue Lightstrip Plus",79,69,75,85
+"Keurig K-Mini Single Serve Coffee Maker",89,79,85,95
+"Le Creuset Stoneware French Press",69,59,65,75
+"Nespresso Essenza Mini Espresso Machine",159,149,155,170
+"Bose SoundLink Mini II",179,169,175,190
+"JBL Flip 5 Portable Bluetooth Speaker",129,119,125,135
+"Ultimate Ears Boom 3",149,139,145,160
+"Sony SRS-XB43 Portable Bluetooth Speaker",249,239,245,265
+"Roku Express HD Streaming Media Player",29,25,28,32
+"Apple TV HD 32GB",149,139,145,160
+"Google Chromecast with Google TV",49,45,47,52
+"Amazon Fire TV Stick Lite",29,25,28,32
+"Philips Series 3000i Air Purifier",249,239,245,265
+"Honeywell QuietClean Tower Air Purifier",129,119,125,135
+"Levoit Core 300 HEPA Air Purifier",99,89,95,105
+"Dyson Pure Hot+Cool Air Purifier & Heater",599,579,585,610
+"Blueair Blue Pure 211+ Air Purifier",299,279,285,310
+"Logitech MX Master 3 Wireless Mouse",99,89,95,105
+"Razer DeathAdder V2 Gaming Mouse",69,59,65,75
+"Corsair K95 RGB Platinum XT Keyboard",199,189,195,210
+"SteelSeries Apex Pro Mechanical Keyboard",199,189,195,210
+"HyperX Cloud II Wireless Gaming Headset",149,139,145,160
+"Razer Kraken Gaming Headset",79,69,75,85
+"Microsoft Xbox Wireless Controller",59,49,55,65
+"Nintendo Switch Pro Controller",69,59,65,75
+"Sony DualSense Wireless Controller",69,59,65,75
+"Apple iPad Air 64GB",599,579,585,610
+"Samsung Galaxy Tab S7 FE",529,509,515,540
+"Amazon Kindle Paperwhite 8GB",129,119,125,135
+"Kobo Libra H2O eReader",169,159,165,180
+"Apple MacBook Air M1 13"",999,979,985,1020
+"Dell XPS 13 2-in-1 Laptop",1299,1279,1285,1325
+"HP Envy x360 Convertible Laptop",999,979,985,1020
+"Asus ZenBook 13 Ultra-Slim Laptop",899,879,885,920
+"Lenovo IdeaPad Flex 5",749,729,735,760
+"Acer Swift 3",649,629,635,660
+"Fitbit Versa 3 Smartwatch",229,219,225,240
+"Garmin Forerunner 245",299,279,285,315
+"Apple Watch SE 40mm",279,259,265,290
+"Samsung Galaxy Watch 4 44mm",249,239,245,265
+"Casio G-Shock DW5600E-1V",49,45,47,52
+"Omega Seamaster Diver 300M",5199,5179,5185,5220
+"Citizen Eco-Drive Promaster",449,429,435,460
+"Seiko Prospex Diver",699,679,685,715
+"Victorinox Swiss Army Maverick Watch",495,475,480,510
+"Hamilton Khaki Field Mechanical",475,455,460,490
+"KitchenAid 13-Cup Food Processor",179,169,175,190
+"Breville Smart Oven Pro",349,329,335,360
+"Ninja Professional Plus Blender",99,89,95,105
+"Instant Pot Ultra 10-in-1 Multi-Use",149,139,145,160
+"Keurig K-Slim Coffee Maker",79,69,75,85
+"Cuisinart Classic Waffle Maker",59,49,55,65
+"Hamilton Beach Breakfast Sandwich Maker",29,25,28,32
+"Philips Smoke-less Indoor Grill",199,189,195,210
+"Lodge Pre-Seasoned Cast Iron Skillet",29,25,28,32
+"Calphalon Classic 10-Piece Cookware Set",179,169,175,190
+"All-Clad D3 Stainless Cookware Set",699,679,685,715
+"Cuisinart Chef Classic Knife Set",99,89,95,105
+"Henckels Classic 15-Piece Knife Block",299,279,285,310
+"Global G-2 Chef Knife",139,129,135,145
+"J.A. Henckels Classic Chef Knife",99,89,95,105
+"Dyson Cyclone V10 Absolute Vacuum",599,579,585,610
+"Shark Navigator Lift-Away Vacuum",199,189,195,210
+"Roomba i7+ (7550) Robot Vacuum",799,779,785,820
+"Eufy RoboVac G30 Robot Vacuum",299,279,285,310
+"Bissell CleanView Swivel Pet Vacuum",129,119,125,135
+"Philips Norelco Series 9000 Electric Shaver",199,189,195,210
+"iQOO 11 5G",699,679,685,715
+"iQOO Z6 Pro 5G",299,279,285,310
+"iQOO 9 SE",449,429,435,460
+"iQOO Z7 5G",399,379,385,410
+"iQOO Neo 6 5G",399,389,395,420
+"iQOO 7 Legend 5G",599,579,585,610
+"iQOO U5",229,219,225,240
+"iQOO Z3 5G",229,219,225,240
+"iQOO U1x",149,139,145,160
+"iQOO Z5x",319,299,305,330
+"iQOO 11 Pro 5G",799,779,785,820
+"iQOO Z6 44W",249,239,245,265
+"iQOO 11 Neo",649,629,635,660
+"iQOO 8 Pro 5G",999,979,985,1010
+"iQOO 7 5G",449,429,435,460
+"iQOO 7",399,389,395,420
+"iQOO Z1x",299,279,285,310
+"iQOO 5 Pro",599,579,585,610
+"iQOO Z5 5G",399,379,385,410
+"iQOO U1",169,159,165,180
+"iQOO Z7s 5G",399,379,385,410
+"iQOO Neo 5",549,529,535,560
+"iQOO U3x",249,239,245,270
+"iQOO 3",349,329,335,360
+"iQOO Neo 3",499,479,485,510
